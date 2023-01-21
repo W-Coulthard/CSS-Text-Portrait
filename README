@@ -1,0 +1,28 @@
+# CSS Text Portrait
+
+A simple HTML file that demonstrates a basic layout and styling using CSS, including a text-fill feature.
+
+## Usage
+
+1. Clone the repository to your local machine.
+2. Open the HTML file in your preferred browser.
+3. Review the source code to understand how the layout and styling have been implemented.
+
+## File Structure
+
+- `index.html`: The main HTML file that contains the structure and content of the demo website.
+- `styles.css`: The CSS file that contains the styles used to control the layout and appearance of the content.
+- `images/demo.png`: The image used for the background of the portrait div.
+
+## Results
+
+The HTML file demonstrates a basic layout structure with a wrapper div and a portrait div. The CSS file is responsible for styling the layout, such as font size and color, background color, and other visual elements.
+
+The CSS file uses a grid layout to create a responsive design for the wrapper div and centers the content. The height of the wrapper is set to 100vh, so it takes up the full height of the browser window. The background color is set to black.
+
+The portrait div uses an image for the background, which is set to fixed center and no-repeat, and the background-size is set to contain. The font-size and line-height are set to 10px.
+
+The text-fill feature is set using the background-clip and -webkit-text-fill-color properties, which clip the background image to the text and set the text color to a semi-transparent white.
+
+## Acknowledgements
+Marko Denic, [CSS Text Fill](https://codepen.io/markodenic/pen/abzOQZp)
