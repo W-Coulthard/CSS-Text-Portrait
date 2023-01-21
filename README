@@ -1,6 +1,6 @@
 # CSS Text Portrait
 
-A simple HTML file that demonstrates a basic layout and styling using CSS, including a text-fill feature.
+A simple HTML file that demonstrates a basic layout and styling using CSS, including a text-fill feature. The text-fill feature uses a background image to fill the text with a semi-transparent color.
 
 ## Usage
 
